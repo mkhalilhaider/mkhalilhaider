@@ -49,7 +49,7 @@ Welcome to my GitHub profile! I’m an aspiring web and mobile app developer, fo
 
 ### 📊 **My GitHub Stats**
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mkhalilhaider&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mkhalilhaider&theme=rising-sun)](https://git.io/streak-stats)
 
 ---
 
